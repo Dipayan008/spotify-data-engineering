@@ -1,0 +1,304 @@
+artist_id,artist_name,artist_type,country_code,primary_genre_id,followers,popularity,is_verified,debut_year
+7OBOZYujmqNmxPyjmmADai,Ravi Larkin,solo,AU,1.0,145,12.0,False,1979
+TkDEmJBWFPIASKWmRVcuic,The Velvet Parades,group,US,5.0,19668,21.0,False,1969
+oeAmiBJtSN0Gwgly6Yrvm3,Esme Eriksen,solo,IN,11.0,2122,7.0,False,1978
+FMDbmkAcGNRiZwnMZDDu1r,The Quiet Shadows,group,US,,776,3.0,False,2015
+5C9oLwbYQcnJDDU2xGODEh,The Burning Skys,group,IN,11.0,472,20.0,False,2003
+N3nuOlhsT5y2BBSCO1Irot,The Bright Islands,group,GB,6.0,1675,32.0,False,1973
+xKNSpCH0Xl5yhPI7yVHs4C,The Hollow Moons,group,US,15.0,2918,24.0,False,1985
+CU3GCMjF2jTtEnYvGdXQs7,The Cosmic Oceans,group,IT,1.0,334,9.0,False,2023
+r4V2fCzi9zALlZVu93INgM,Pax Novak,solo,US,17.0,23452,37.0,False,1978
+0XYXvRV9kNfWfpqIxmn67D,Mara Marlow,solo,US,,3535,1.0,False,1991
+HDx4uH6sVyjAIY9i30N1VL,The Lucky Fires,group,CA,17.0,8938,33.0,False,2004
+eVEBTVPzn09OOocuSgaW86,Dario Ebert,solo,FR,1.0,15292,34.0,False,1977
+DQW1uAPUHuzMfc5Plx6X0Q,The Midnight Compasss,group,US,2.0,629,14.0,False,1968
+YX8EencFZBdlXFXEW1KBBI,Ravi Zielinski,solo,ES,6.0,17413,52.0,False,1972
+fjfUKaMdjF6qSc0tfNatTQ,The Blue Thunders,group,IT,1.0,3271,8.0,False,2020
+fVe3M4Qk11KtvF5A2l7UH4,Kira Voss,solo,US,6.0,814,15.0,False,1982
+tQCIhjywhyyZqh7W8zTrQy,Esme Reyes,solo,IN,11.0,1597,15.0,False,1990
+LgLMpFLJkcbDFBJa7YYvnH,The Quiet Rhythms,group,IN,3.0,386,6.0,False,1986
+BHVKRyOtCga2ryaEaSDU2a,Mina Garrick,solo,US,1.0,1711,17.0,False,1969
+C0MdMGpsKFvvs8J2HcoAUD,The Static Gardens,group,TR,2.0,13208,34.0,False,1970
+RgKhfGXIbMPuzyK3GvDe09,Ilse Dalca,solo,US,,246,9.0,False,1965
+X0hz4YqzFP5CCGORRt3kkK,Ilse Lindqvist,solo,IT,10.0,649,6.0,False,1990
+1cabQ9LxgLWaAt49l8jrwa,The Crimson Echos,group,IN,5.0,2816,11.0,False,1995
+Vmoq0PJOCKYMfjX6Wso6oz,The Blue Harbors,group,ES,3.0,5730,28.0,False,1975
+4CzlhtK7dYFk2HfD6UfsyY,Talia Dalca,solo,ID,16.0,7454,16.0,False,2006
+FXGNIwYwcad0dpNCK1jQHJ,The Static Engines,group,US,11.0,19135,51.0,False,1981
+8YTXfgUMyswFy0Wag3D02k,The Hollow Harbors,group,FR,8.0,271,8.0,False,2017
+XTEbxmBg8avAS7sBKCtHd4,The Slow Ghosts,group,IN,10.0,3052,21.0,False,1995
+ZLVh90r8ZfCNXrmLNVse3i,The Secret Memorys,group,BR,,5647,24.0,False,1992
+csdSUQALKsGbGC3pTWvLYf,Quin Fontaine,solo,IN,8.0,190,14.0,False,1997
+nmeVSlke80nSkTZ2mxzJpu,The Cosmic Valleys,group,ES,2.0,4188,49.0,False,1983
+MkBJRJBTszj1GgoNbdDRKy,Zane Whitlock,solo,US,2.0,184099,55.0,False,1982
+9mh9Rj0QImTdmwmdndWVEF,Mara Varga,solo,US,3.0,10724,20.0,False,1982
+K7uup2y7qtvCjuSp9l4qdj,The Summer Memorys,group,AU,10.0,7804,45.0,True,1996
+m8pD0PgfEtXzNp0yyeFoHb,Rhea Guerrero,solo,US,8.0,1413,21.0,False,2012
+FvNXJDZvcwYlunp8OWe99E,Luma Haldane,solo,FR,11.0,15231,45.0,False,1987
+qycxy7VGCTpg9ydqApdZYt,Rhea Varga,solo,US,1.0,156,15.0,False,1992
+pnA3ncfqVack3oUzqSxr65,Niko Tanaka,solo,SE,1.0,2234,3.0,False,1979
+JbgFpuuWnyixR7FKKcdnb2,Mina Varga,solo,IN,3.0,5074,,True,2003
+rP1sG1jcSxqpOhov9Ld7KL,Tess Xu,solo,IN,3.0,25386,34.0,True,1976
+JJGcNwQcOJYIGafQSdn35K,Talia Okonkwo,solo,US,7.0,330,6.0,False,1993
+sIIwc5wC4vBxGLm2jPvjsW,Cleo Jansen,solo,KR,15.0,1938,25.0,False,1987
+w1pQ3nlIWLncxRrgG5xtYw,Kaito Banerjee,solo,US,8.0,2204,26.0,False,1994
+KhSo8xrttcXwCDoOyIRm8V,Uma Novak,solo,FR,12.0,378687,55.0,True,1975
+XfBiHH3ifKvjs5bSeCdMvy,Selene Yilmaz,solo,GB,15.0,2180,22.0,False,1971
+OGgAiqKLIzhbJfgJTgnUOv,The Burning Tides,group,US,1.0,119156,55.0,False,2001
+GB4H6dLUA0GyhYatQtbFx4,The Slow Storms,group,CA,5.0,308,1.0,False,1999
+CD5QWOxw9GaWkUGDKbAiA4,Ilse Whitlock,solo,US,6.0,29681,38.0,False,2025
+8nYnFZtkwqaBhJO1brdPt1,Zane Larkin,solo,BR,3.0,7901,23.0,False,2012
+22LRrUEt70l16PYxkwi5yG,The Secret Valleys,group,US,4.0,1499,9.0,False,1980
+bzxHLzFYgwQEQglfZkChfR,The Phantom Summers,group,FR,3.0,2435,27.0,False,1989
+3BWwfQINKCDo1kLlxHm8Oz,Tess Banerjee,solo,ZA,1.0,30464,42.0,False,1984
+RiKBN0hXGaAzNQ13TkBSL4,Talia Abara,solo,BR,14.0,10967,16.0,False,2020
+hgVEFpgpdngVHNftsQEaLE,The Broken Storms,group,SE,7.0,225,3.0,False,2023
+ubGvztX5xiVceBswGti2Y4,Elif Guerrero,solo,US,6.0,2752,11.0,False,1983
+shokwcGiM8CRypZV3nwdsB,Hugo Lindqvist,solo,FR,13.0,14052,25.0,False,1992
+dGrkApc6VQzqeTb2slPwjS,The Neon Ghosts,group,US,6.0,726,18.0,False,1974
+5a6NZhVksV1TQYm2borazz,Tobin Abara,solo,US,7.0,266,17.0,False,1972
+wpV9Sqt3wWFDk1ha8h83a5,The Quiet Echos,group,IN,11.0,398,11.0,False,2020
+ni8fPrgKijaWH5XQz4bLoK,The Phantom Letters,group,US,4.0,4218,7.0,False,1998
+AuTePzeLcXSkPUYsSuIOc7,The Paper Windows,group,BR,3.0,822,17.0,False,2024
+v7hPqJ8kOUN2K9yB4DUnKM,The Paper Memorys,group,US,11.0,38522,60.0,True,1983
+R72o85x0teZv0OMD1v9pnR,The Lucky Engines,group,SE,2.0,57313,49.0,True,2017
+g9eIgCZAKKhBYf5h6e30JZ,The Burning Echos,group,MX,4.0,868,15.0,False,1996
+LakSDiPB7tQ2wyhY3Lxdfe,Niko Guerrero,solo,BR,4.0,2022,27.0,False,2013
+2fSMzZ2LbIOM8BAGv1LMKw,Esme Reyes,solo,TR,1.0,760,26.0,False,1993
+GpNN7EaNpsuHYHDAAju1HS,Finn Moreau,solo,ES,4.0,2149,10.0,False,2015
+HGaFKqSqeSjKwuvf4L9vLL,Luma Tanaka,solo,GB,11.0,2408,8.0,False,1965
+DKZBIq6u9SPBPIIXPjoobY,The Saffron Carnivals,group,GB,2.0,2436884,75.0,True,1980
+UJ6i1iHb8MotnZ8sRaRtM2,Priya Quill,solo,NL,15.0,1155118,82.0,True,1993
+zjie91nZQpy2zo4ZNeFyTv,The Faded Fires,group,NL,2.0,2907,23.0,False,1981
+R3vCrUD17m2OMqa73hPIkF,Ilse Fontaine,solo,ID,1.0,1400,31.0,True,2026
+hqQ13IavKSqg0HO5XkSo2P,Niko Lindqvist,solo,JP,2.0,1308,8.0,False,2020
+Da3sJuzN4mtnGE7dx516Py,Joren Quill,solo,US,5.0,1967,21.0,False,1997
+tXe5W70LFGa12twv3THf9x,The Silent Lights,group,US,8.0,261,14.0,False,2009
+j5uhisEbbrMscf5RQmy0tK,The Rapid Parades,group,US,7.0,6419,33.0,False,1979
+OCuSC0RHz9xzKKD8Z8zUiU,The Copper Dreams,group,NG,1.0,172,12.0,False,1987
+Wg3rfLWCyY49k7j6lDNAPt,Sol Tanaka,solo,SE,7.0,506,32.0,False,1989
+u64DIHsOjQ7wi1HwOqjc5K,The Blue Mirrors,group,BR,5.0,3298,21.0,False,1974
+WTANj5ioODuPulYxl1fWPS,Kira Tanaka,solo,US,6.0,2787,8.0,False,2013
+T6SU6EVq436LagAJeYEpv4,Cleo Sato,solo,NG,7.0,2179,26.0,True,1970
+dxJM7yo6ZzdPnFMvdo3nGi,Anya Reyes,solo,BR,17.0,124,11.0,False,2025
+QlkDGk7hwOVW9LHLxwSQBb,The Blue Skys,group,IN,5.0,2286,36.0,False,1974
+fyXPdSvigwYeQxf5QqSx4g,Sol Faulkner,solo,JP,4.0,14963,46.0,True,2016
+xGho9Z5Ib3AkhTmXsIp8K5,Rafe Garrick,solo,CO,17.0,1396,19.0,False,2026
+AILghhc0Idoh7d7uWOuwra,Cleo Fontaine,solo,US,5.0,43366,45.0,False,1978
+igenSwPmgPNuTiepvpeU19,The Midnight Shadows,group,US,1.0,188,3.0,False,2017
+MFJ3LLDDFSKHKjmaT43PA7,Beck Okafor,solo,DE,5.0,32921,29.0,True,1969
+iRRWUlPbnlRvIUsAKM2Vr4,Cleo Jansen,solo,GB,1.0,40876,53.0,True,1973
+1f5H8Tbe2qiE2Utc4o9xzX,Kira Banerjee,solo,GB,6.0,104495,43.0,False,1970
+69bgS8Igyz6eWB5WW54t3b,Ravi Varga,solo,GB,1.0,4106,25.0,False,2008
+qJYDzcCu9ZgufcfM8wrlVO,The Gentle Summers,group,US,17.0,53056,43.0,False,1988
+JOifoT2PvBFafu41WBlq0W,Quin Jansen,solo,KR,8.0,525,14.0,False,2015
+9qm04BdWDXu4ghQ2oR7QIF,Rafe Haldane,solo,SE,5.0,145,9.0,False,1980
+Yx5QNXgptHpTXw6YmOKKst,Beck Dalca,solo,US,3.0,28622,45.0,False,1991
+XbD45JN2qLXGTfPDFBBh6S,Rhea Mbeki,solo,US,5.0,1554,14.0,False,1968
+wiDmxeN5CS4sCfm7ELprxw,Tobin Eriksen,solo,GB,1.0,386812,62.0,True,2024
+Dmqx2GlZ1g79NtQlHWgJiJ,Tess Dunmore,solo,ID,3.0,2417,29.0,False,1977
+2yboZGExp0ejyPWFiZ1jh9,The Tender Candles,group,IN,4.0,1148389,80.0,True,1999
+xalPgZQwehZfj39XhV5Ucd,Leif Lindqvist,solo,US,1.0,6836,39.0,False,1975
+aa4SAFXgLRIEaXw10mfJb3,The Wild Oceans,group,IN,9.0,329,14.0,False,1987
+NNLg5jCEVlaMdF09pijicR,Corin Chaudhry,solo,GB,3.0,7276,47.0,False,1976
+biJnZkfvCFBF84h8PWe9Dj,The Blue Signals,group,DE,4.0,1694,40.0,False,2001
+ROsjJI3xsCy557C4SgA0T1,The Cosmic Seasons,group,MX,8.0,324648,65.0,True,2003
+fiV9jEkoiBnTqOyQW18Vr8,The Rapid Gardens,group,KR,7.0,797,9.0,False,1999
+mUfHY0b3GqB0zOxIBrjaAm,Rafe Voss,solo,TR,6.0,155,13.0,False,1979
+lGyeA74B2COdiQAssypg3j,Opal Sinclair,solo,BR,3.0,830,19.0,False,2004
+IMsEW5sKzMfGVtLEsXy6hp,Opal Moreau,solo,BR,9.0,2302,23.0,False,2012
+d5akoqVks2FnlVr8uinlmj,The Wandering Anthems,group,TR,9.0,44589,41.0,True,1979
+4eudNO5RdLjEKCXGcsIDxV,Elif Dalca,solo,GB,7.0,255,18.0,False,1973
+avMVtTZxwovoZ8XOOe2ZkU,The Quiet Rivers,group,IN,5.0,91426,57.0,True,2008
+nXMIiMwv07NweVStajDUAn,The Phantom Anthems,group,MX,4.0,2293,14.0,False,2025
+2zMW9xOvc40C7GsdeuuhZ4,Esme Quill,solo,NG,1.0,10208,10.0,False,1982
+AdEEq2I4aH0vuxDolh4dUT,The Cosmic Memorys,group,BR,1.0,18812,44.0,True,1988
+6N171tpRpD49HMsb905wkf,Pax Abara,solo,IN,11.0,2510,30.0,True,1991
+bZpxi2TxnPyz03YGuq1UIt,Niko Moreau,solo,DE,1.0,3717,19.0,False,1972
+hvznR2wqUauhJJwwNKFk2k,The Paper Ghosts,group,US,5.0,1187,17.0,False,2004
+BhAIbxmmNm6OJ2LwsikJAi,Luma Larkin,solo,MX,18.0,1083,14.0,False,1975
+8XFSAKq8jbRQpY3ECNNjCw,Ravi Rossi,solo,AU,,142009,26.0,False,1980
+qlO5q3328tOe6TB5DHiGf5,Orin Mbeki,solo,AR,2.0,126333,54.0,True,1977
+B5Hb3FdNEdSIeiomaQcpVB,The Gentle Fires,group,GB,5.0,16240,16.0,False,1976
+BIS1vovcfcntvf27NvU3a5,Zane Underhill,solo,AU,17.0,517,19.0,False,2020
+aTOPTfBde8kLY9cmtWMjQ5,The Static Lights,group,BR,1.0,336,24.0,False,2010
+62gVURfoZfXSR4Y6RbvU7K,Dax Banerjee,solo,TR,6.0,93,1.0,False,1983
+i8UQxmggrn3FYod7P0vmve,The Copper Fevers,group,AU,1.0,16246,36.0,True,1983
+iYpFuyD055oBWiUtNnAYh0,Kira Banerjee,solo,IT,10.0,109382,60.0,False,1976
+CTymPnyjLIrg4kI0qMGhSL,The Velvet Memorys,group,IN,2.0,363477,66.0,True,1985
+mGJTsHhEcNgDiupCxXTf6K,The Restless Harbors,group,MX,4.0,110471,54.0,False,1986
+9oOMxUUZNvgrmoBjlAAHhs,The Bright Thunders,group,US,1.0,2757,21.0,False,2005
+69SAlFT6VrQ4mGKcBbEVDF,The Rapid Lanterns,group,FR,2.0,10608,47.0,False,2002
+iPA8cAg7WRCCJ6AqNxXYlY,The Quiet Tides,group,ID,8.0,97,5.0,False,2007
+beVnLKnyBARcBg9fQZJIUy,The Broken Compasss,group,BR,11.0,2212,32.0,False,2023
+FJmtEO7UkJLHDgi47Jiiab,Esme Tanaka,solo,GB,12.0,2670,33.0,False,1974
+URfvQn8ZGInFPuOB3FroSD,The Summer Trains,group,IN,4.0,13523,14.0,False,1986
+fZG8JjjJKQ7Tr3CQIuBZN1,The Hollow Dreams,group,US,2.0,374,11.0,False,1978
+eKG9eTVpEtWIdYFjCJ4SgH,The Dusty Fevers,group,GB,7.0,971,3.0,False,1999
+uOP1vrHWksvJhBrFx2W1AY,Dario Varga,solo,ES,11.0,31134,42.0,True,1970
+JPyZ6pwnl1paSeoGUt72xT,The Dusty Citys,group,NL,1.0,102,5.0,False,2007
+WQqEKYHU9LJ6omZquGIIUq,Dax Marlow,solo,US,4.0,20722,41.0,False,1981
+asuBypzqZfGdQrPEMUtkrY,Niko Sato,solo,US,8.0,238,7.0,False,1988
+GlZj1k9zMBxvKD2iLAlqUF,Cleo Mbeki,solo,BR,7.0,3066,24.0,False,2024
+FXx7tf0f6VJsmSJEQEjGME,Niko Xu,solo,DE,18.0,1228,10.0,False,1975
+3DMrYAJQrNR8EUDGySvz4k,Jun Sinclair,solo,BR,4.0,74269,49.0,False,1977
+jHxqHouHbN8w8pjxuVHV2D,Talia Ivanov,solo,JP,6.0,6078,47.0,False,1978
+DZ62fbhcP8BViWhcNg2Eku,Tobin Reyes,solo,US,2.0,347,21.0,False,1980
+582P4BLaU7dPnkggWwe8Fh,Finn Castellan,solo,NG,1.0,1436,12.0,False,2008
+P6ycezjfY9Gh3A4Y2S6QzC,Rafe Eriksen,solo,JP,2.0,2921,19.0,False,1971
+c7vdgr13hYaQzW6llQYZd5,Hugo Whitlock,solo,MX,1.0,10226,41.0,False,2017
+NpbdAEKDXUV5OByJ3lxYK4,Aria Ebert,solo,FR,1.0,312,30.0,False,1997
+dzXaI6StIUpYvpbJcjHgRr,Joren Quill,solo,IN,11.0,1565,26.0,False,2008
+O6SfpN3ToFIwT6XOy8z3hv,The Wandering Engines,group,US,16.0,17826,26.0,False,1982
+RnEUeDaxWCyrqBkhkR20ds,The Wild Skys,group,IN,2.0,310230,64.0,False,1991
+PMVNoEbEgrHaSYJZrcSkHK,Esme Ivanov,solo,NG,3.0,52207,35.0,False,2023
+e1kzqSGnSDJ2t1nVKe2MFa,Priya Xu,solo,US,5.0,10503,27.0,False,1995
+hn0RTHc9ioEJWuHNSM4egm,Anya Sato,solo,DE,18.0,225,14.0,False,2009
+mb3kSRIUr1jpB7WdRe8NTs,Cleo Larkin,solo,MX,1.0,232,7.0,False,1985
+ysuL350GMT9d1ArDYimYLH,Talia Dalca,solo,AU,13.0,886,22.0,False,1973
+Blfn0mp1x9ZoV1jLcolms2,Quin Xu,solo,BR,,1348,,True,2012
+3Px8UxgaBiw8qNsY4PLqc2,Priya Guerrero,solo,IT,1.0,1783,8.0,False,1981
+CseRXpmNDMyu0lfzwk6VJl,Priya Okonkwo,solo,US,1.0,1122,13.0,False,1986
+Kvyp1Md60KFvwV9ZmfPwD5,The Sunday Letters,group,IT,6.0,11202,44.0,False,2007
+ULdYXgyNRe1CBM3WXb0W7j,Finn Zielinski,solo,KR,9.0,11251,38.0,False,2017
+jOfIe28iImKECGu7Avg7wS,Tobin Banerjee,solo,SE,6.0,724,23.0,False,2010
+MfvjdCzyj7ppgKc1aBgC3g,Uma Guerrero,solo,GB,14.0,47239,46.0,True,1980
+MsoAqBBDR5bTsNznV2EPi9,Gaia Xu,solo,KR,1.0,1988,20.0,False,1971
+zUp7LgdPxGY5L533jDvHKi,Rafe Okonkwo,solo,GB,9.0,122,5.0,False,1980
+kqWZhOM4RWpGmf2Lj2g8pS,Hugo Okafor,solo,CA,2.0,6640,62.0,True,2004
+GEI8HIcK8B4hQ6Bdo2EkZe,The Midnight Compasss,group,US,15.0,238,8.0,False,2010
+dKrRij5ua1WACu3Xobl7lL,Pax Holloway,solo,AR,3.0,10926,34.0,False,2021
+yV9KXadnIegANwZ1Jc5HeI,Kira Castellan,solo,MX,4.0,45044,39.0,False,1975
+IB0GtLUjEe7bcVumOsM4ol,Rhea Mbeki,solo,US,2.0,135736,52.0,False,2009
+OpOj94bTCQrJAINVUmrFoN,Niko Guerrero,solo,NL,4.0,7281,42.0,True,1975
+f1vx0G5klGAqUfzauFnWvF,Talia Chaudhry,solo,US,3.0,62,21.0,False,1985
+VycX8xco13hXtBwGQ82an1,The Copper Orchards,group,AR,16.0,14689,45.0,True,2012
+6De7kYSOOhjP4WUtvoYLiz,The Lazy Fevers,group,US,6.0,1197,17.0,False,1993
+5x8bv1kfuP3Bpo8S9ocoeP,Uma Abara,solo,ZA,7.0,129723,59.0,False,1977
+Yy9tOW0ahW4yWdCO9kFV5G,Nia Rossi,solo,FR,6.0,395,17.0,False,2015
+2cACvxLXpf1BDnsUGU64Dz,Rafe Haldane,solo,JP,14.0,1824789,69.0,False,1984
+yr7SCv46d171WMGgTQCuFT,The Secret Echos,group,BR,7.0,564,19.0,False,1975
+d1yzqvjm2ZtaM4Wu2RsUa0,Selene Reyes,solo,DE,2.0,23085,44.0,True,1985
+dOyRVd8A5xACI0umTOxz5c,Talia Haldane,solo,IN,5.0,22083,49.0,False,1984
+iBSa9sdPkg9FURSmzuWcFE,Orin Brandt,solo,US,4.0,3319,34.0,False,2025
+ncU2VkKUmS1Ou1B3csxDyI,Ilse Lindqvist,solo,IN,8.0,224,2.0,False,1985
+9CVQpT8gA0LHmius8R3p3K,The Midnight Valleys,group,US,11.0,9473,30.0,False,2017
+aKQ5enDzNsWFFkWgYZQEch,Jun Okafor,solo,IT,2.0,1162,27.0,False,1985
+BkcUSAlUQlMAeRWVuE0LMC,The Winter Skys,group,US,4.0,1828,29.0,False,1971
+QRfcFdyfydT8BsChJvrOK3,Elif Tanaka,solo,US,18.0,340,16.0,False,1989
+6T52tw4PVyuF3u0aZSrkAl,The Lucky Tides,group,BR,5.0,1329,6.0,False,1981
+0XxZ9r2BehonuaMdCcTKk1,The Lonely Harbors,group,IN,7.0,2227,43.0,False,2003
+lHC6R4cpyLZkzknU5eLpqm,The Wild Summers,group,PH,10.0,94468,48.0,True,2009
+18mdaWIf4W0l14trikU8Nm,Jun Yilmaz,solo,GB,19.0,5554,19.0,False,1994
+2m0LH7KFIvWm8CktQX2ZTQ,The Blue Fevers,group,NG,10.0,118,11.0,False,1976
+WAcdB8rsjIHnnyikgdpvLU,Gaia Abara,solo,CO,1.0,654,13.0,False,1982
+HN9Dw4iVwAAkYKk0rY0wnn,The Wild Windows,group,NL,2.0,139180,58.0,True,2000
+IJS9LXdVIk3vFMJx4LXVBS,Cleo Okonkwo,solo,MX,11.0,109922,30.0,False,1986
+utnhL7K0cl5AtyOTv22CVL,Quin Garrick,solo,MX,2.0,23794,19.0,False,1999
+7LpCYa4lNeAyjjJ2pezJsG,The Quiet Oceans,group,AR,4.0,32356,48.0,True,2003
+ZJ3SOW8Mp6vLewjViG6xzw,Mina Lindqvist,solo,ID,1.0,1651,24.0,False,2012
+Q5fwlnC5t1x0eSaEdczavi,The Crimson Hearts,group,KR,6.0,12106,37.0,False,1984
+san73ONlxLucaYGuKoI82f,Ilse Banerjee,solo,IN,11.0,896196,64.0,True,1990
+dXYiJS1SJAn3N0dQlG66wV,Priya Ebert,solo,US,11.0,235,3.0,False,1977
+lc5uhYc2pY9UL7dyDMlsWn,The Paper Lanterns,group,IN,1.0,20323,47.0,True,1983
+SycSPgfOpYlxa1fXb5Ko5x,Hugo Zielinski,solo,AR,8.0,32479,44.0,False,2011
+BZNMNpgg3lvRbE3ChmzW3T,Corin Kowalski,solo,US,4.0,286,11.0,False,1970
+sL3739K85OAvm9c6eUVFfv,The Wild Ghosts,group,PH,17.0,546,21.0,False,1986
+MFpDKEF7mceeiWnpmfhwUE,Orin Castellan,solo,ES,2.0,1237,18.0,False,1982
+9E6ynQlQ4D0ObeFakWPpiq,The Electric Engines,group,FR,4.0,144,12.0,False,1980
+4YIHeS05b0aTEn0VK91ELs,The Phantom Trains,group,DE,14.0,480,16.0,False,2017
+NJz5jTEKSLcqtll0XuR5ps,The Broken Parades,group,ID,13.0,13312,32.0,False,2007
+pNkHclbypMWvvKcsktmo6A,The Saffron Carnivals,group,DE,11.0,8937,47.0,True,1984
+OkVjD1TG0BNZ0EsBjmskfG,Tess Rossi,solo,US,7.0,51865,49.0,True,2026
+yGdwKzQqV3APUZZjb34brI,Joren Sato,solo,BR,13.0,1497,34.0,False,1967
+9Xuk5FuVoTunEBLRrpPvTW,The Neon Islands,group,BR,,7551,32.0,False,1993
+W9SPHp3aZPImxdcqPtIJh6,The Secret Roads,group,US,6.0,1375489,81.0,True,1966
+y1971E9oD9S2mFfOm1YDnZ,The Secret Summers,group,US,1.0,385,11.0,False,1984
+pbEZz5HC36xKuddx1dO1vC,Leif Okonkwo,solo,DE,1.0,4018,41.0,False,2001
+MwqbP5wMbXZMbmkob3oz93,The Lazy Letters,group,NL,2.0,335,7.0,False,1998
+uDBzfWNxJtcQETcnneKo8Q,Zane Fontaine,solo,JP,1.0,2150,32.0,False,2000
+1JeDkRqjt1zBZQKQo66NHC,Corin Dalca,solo,KR,4.0,2424,27.0,False,1971
+hlbqAprtDpVuRcWLTuzreU,Ilse Pellegrin,solo,NG,10.0,28262,39.0,False,1990
+CcnOrVhOG2DdCZxY6JDGZv,Rhea Garrick,solo,CO,5.0,55353,51.0,True,1998
+YEVGJnU0hlfIbe8AqhHZdq,Tobin Haldane,solo,IT,3.0,17398,47.0,False,2020
+XoFJ1uyEvvB4P1Wd87f3Pu,Dax Ivanov,solo,US,8.0,961,10.0,False,2014
+jDIezWnngRAxuc24zC4aM0,Joren Sinclair,solo,DE,8.0,29730,58.0,True,1981
+HNadThZ5xSJgOMox9v6coh,Mika Xu,solo,IN,17.0,1194,17.0,False,1986
+k9agnSIiopQZlBvB3Os8Cb,The Golden Ghosts,group,IN,11.0,45624,42.0,False,2004
+79U4deGBEvl6qSSU2wE6Ed,The Wild Harbors,group,IN,13.0,1308,18.0,False,1999
+RMBxVLviqMA61orMqZ876l,Pax Eriksen,solo,ES,4.0,19987,,True,2016
+flLevVpXs0D3C8Wmr6GQEd,The Lonely Mirrors,group,BR,3.0,175,10.0,False,2001
+q0c10tZcFU6znszEReJ8RE,Gaia Fontaine,solo,ES,1.0,19229,34.0,False,2012
+Mjc2qGWJYasqje3hnWRmu8,The Crimson Gardens,group,KR,1.0,12834,26.0,True,2026
+fSxRp6zHijiUfJYWRpeE4w,Sol Guerrero,solo,AU,6.0,5926,23.0,False,1988
+5CB9eRxlYAj1wbwJBVSlf3,Opal Zielinski,solo,US,8.0,619,7.0,False,1988
+xHEuDIannQ1xa9z81bfqbg,Uma Holloway,solo,PH,9.0,202966,64.0,True,2001
+kV7qteghc3gEj906AlSn1r,The Neon Islands,group,US,11.0,857,24.0,False,1997
+ZtcgMsto3Z2HUkyYNABCFc,Sol Garrick,solo,US,11.0,42949,57.0,True,1967
+8wXdVjTFbAZ0EsmZecMeGb,The Dusty Letters,group,JP,1.0,5168,35.0,False,1977
+vN1T4WMsMjXW1sndYnxKDg,Aria Xu,solo,ZA,1.0,205,18.0,False,2020
+cJ3HllaFenxzm1NfbUrxIE,Niko Fontaine,solo,BR,1.0,12884,28.0,False,1973
+XVqlW5ec6iai8rqmmKKoGr,Mina Garrick,solo,IT,2.0,765,19.0,False,2015
+LRWy6hqDP53LmqwVe1gEUv,The Winter Lights,group,US,6.0,81,6.0,False,1978
+aYUcCw4xrAZSykQs0dJRi1,The Crimson Harbors,group,AU,9.0,6534,37.0,False,2019
+afyuYudKZM2FszQU5TyQXJ,The Golden Anthems,group,IN,18.0,16191,49.0,False,1973
+B1jrrpJHXYxhORK914y77p,Luma Voss,solo,IN,11.0,608,,False,1974
+54lcktBq18WdNAEWdqxhqK,Leif Faulkner,solo,DE,2.0,4076,23.0,False,2020
+cMNOcsi7UIeJuTlOpmAws3,Selene Kowalski,solo,NG,7.0,941,19.0,False,1979
+4vu717WhDxSaGksydFDTlR,The Wild Signals,group,US,1.0,15900,23.0,False,1969
+B5ilaRBdoy1nE8eGT6g9Jp,The Burning Rivers,group,AU,8.0,3548,28.0,False,1979
+Z8JLARltDzaX8E1xpeidYW,Mika Moreau,solo,PH,2.0,23776,34.0,False,1989
+BwLgvK3oWFwAg1lW3jshDs,Zane Zielinski,solo,IN,2.0,1125,14.0,False,2015
+AmR3jT0vcoqaIpnBe80M3U,The Blue Windows,group,CO,,558,14.0,False,1990
+fTLBLJJ8lkngNDpUaJXK95,Jun Xu,solo,IN,16.0,10685,38.0,False,2010
+Oz9h8YZA8i7VgQdruIigHl,Hugo Sinclair,solo,AU,1.0,20439142,90.0,True,2025
+M2DnKqtQO9svaDrfGszgjm,Sol Ebert,solo,US,3.0,667,21.0,False,1998
+FsRcdCNdkNKqrJE5DzvYrG,Luma Moreau,solo,SE,2.0,53268,41.0,True,1974
+TaXlWMp5CY7dAFisYLBiCe,Jun Quill,solo,PH,13.0,5368,26.0,False,2022
+O6HaxmvUv6wNVKvh7q4RDR,Mika Kowalski,solo,IN,1.0,107052,65.0,True,1978
+8HNbnbieKGzG6VELE3bMi0,The Crimson Windows,group,BR,1.0,2219,21.0,False,1973
+vpEoghNV3OxdTGuwAyp9yT,Mara Lindqvist,solo,IN,1.0,2294,9.0,False,1988
+HUi1MMPmXUVmPkFxrAJgQ2,The Static Memorys,group,BR,15.0,5157,22.0,False,1985
+19yTuG5qYe6nYSRMDtmlFr,Priya Moreau,solo,NG,1.0,2695,31.0,False,1973
+ZnvPdTABg64aTmZ90Ggu5Q,The Lonely Valleys,group,US,3.0,4503,20.0,True,1988
+p5K8UjREG05BTdmnmgIBlS,The Wandering Candles,group,MX,4.0,30392,37.0,False,2019
+Y5uEKHnjlmg27Bbclz57em,The Paper Tides,group,CO,1.0,30814,52.0,True,1987
+4oPJwhPcqObV98BdnhLnRk,Esme Haldane,solo,IN,11.0,1188,20.0,False,1968
+Y4SDNCrFpboVFLsPJWNyR2,The Summer Signals,group,IN,3.0,460,10.0,False,2024
+hEV7IeMIW1q6aGi7v1IvYW,The Slow Lights,group,CA,5.0,1070,14.0,False,1999
+5nfNsmmZb2tMZgD6dKHxDK,The Blue Parades,group,CA,2.0,10360,35.0,False,1989
+IEOCzYbYm91ge0pp5S7BLy,The Summer Engines,group,NL,17.0,4500,30.0,False,1981
+50KwaJ1T1rksCCSGOeORuq,The Bright Moons,group,IN,17.0,1268,22.0,False,1993
+R99pEmij3pBaciDki25M7i,The Slow Roads,group,GB,11.0,1027,15.0,False,1971
+zcY98pVDR3RAARWk9kK4uM,Quin Quill,solo,US,2.0,703,29.0,False,2024
+85XPiuKcq8qh9o3vv8ymLr,The Savage Highways,group,IN,3.0,1631,22.0,False,2000
+pdkAm2kkBYE9cOxHCLC7RR,Elif Holloway,solo,NG,12.0,57,12.0,False,1994
+cTtlCfh497LhnNZiVJRRcz,Ravi Haldane,solo,ES,4.0,114228,41.0,True,1980
+w4C4TcZI8kH0lonleILwIv,Leif Guerrero,solo,IN,11.0,929,7.0,False,2023
+nolb3UUhUut37QpnI7HIav,Joren Brandt,solo,GB,2.0,981,4.0,False,1975
+TQRuvzL71jArek8mLdRsDy,Ravi Chaudhry,solo,KR,9.0,3898,26.0,False,1992
+nOZKma7i4sJ4KhZTTehJM6,Kira Xu,solo,IN,1.0,4409,25.0,False,2011
+eGmKbuiYAXVEeltBLOM5XR,Aria Sato,solo,JP,1.0,1028,29.0,False,2009
+PfBmMPuvOPeGE4AEdUKYib,Kaito Moreau,solo,US,7.0,15179,38.0,False,2011
+KJLckhHuwAEYQI8I5pgXKR,Opal Jansen,solo,ES,1.0,105497,50.0,True,1969
+Sgtl4dMyQlTJf6iAZ7svCl,The Quiet Citys,group,US,10.0,3701,29.0,True,1985
+xM9uehlVhbrt50lTbQ4Lns,The Golden Candles,group,DE,6.0,139,14.0,False,2022
+pXErrTkaVBmAlq4KH7lfiy,Kaito Whitlock,solo,AU,6.0,262,7.0,False,1995
+nLDX0Rg6PpQkwizJxfZwqR,Tobin Yilmaz,solo,US,10.0,3930,26.0,False,1967
+pxhdt8oF48fKG98hLteVXF,Kira Pellegrin,solo,MX,6.0,223,13.0,False,2002
+WRS8X2KBLOiWHmi5KdreKu,The Copper Harbors,group,ID,3.0,23248,50.0,True,2024
+JpVAewzqMTlzEdSZsyeXy1,Joren Larkin,solo,US,2.0,25027,31.0,False,1996
+ymhrRcop0SUUnLXnFSmt2z,The Crimson Horizons,group,KR,14.0,468,3.0,False,2022
+jL7W2loPFQAy4JrZNl61we,Corin Eriksen,solo,GB,8.0,21543,47.0,False,1972
+xcVTmPZLBfotxyuasQuYP5,The Marble Fevers,group,CO,17.0,3139,14.0,False,1989
+e70KmG4aduXXLatHpw11Kg,Talia Chaudhry,solo,NG,2.0,178,9.0,False,1993
+stL1hzfXC7VTUAlfUNf0d4,The Crimson Trains,group,US,9.0,976,4.0,False,1978
+hWpSk7akGYQkywA8UodaEs,Kaito Yilmaz,solo,ES,1.0,384294,67.0,True,2006
+ZIWAcoadHiM5RArdAUnvoV,The Gentle Rivers,group,AU,1.0,22094,28.0,False,2014
+HJJ6C05wGk95dpuOw92dmh,Dax Dalca,solo,IT,15.0,7200,34.0,False,2005
+EWvrk7ImyXXRYXKZy20UmP,Quin Lindqvist,solo,KR,18.0,869,6.0,False,1968
+nvCYQ9jlicgW6MFM9wVCUI,The Lazy Highways,group,IN,3.0,9953,25.0,False,2013
+vGUIzfzzT0ota3pJLXLHNh,Leif Haldane,solo,AU,10.0,2828,7.0,False,2000
+Mxsw5oI2zTp87miD2T4zsl,Ravi Larkin,solo,AU,1.0,7,12.0,False,1979
+jtf5C3cx4A0s70XRjJuO8Z,Tobin Eriksen,solo,GB,1.0,19340,62.0,True,2024
+u8clEtYOC44C1obN6PkBmy,Rafe Eriksen,solo,JP,2.0,146,19.0,False,1971
